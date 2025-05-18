@@ -71,8 +71,11 @@ src/
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/react-profile-form.git
+   
    cd react-profile-form
+   
    npm install
+   
    npm run dev
    
 
